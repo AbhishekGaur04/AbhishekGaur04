@@ -1,6 +1,11 @@
 # 💫 About Me:
-FREELANCER 
-AI ENGINEER
+🤖 Focused on Artificial Intelligence, Generative AI, and LLM-based applications
+💻 Building full-stack web applications and backend systems
+🧠 Interested in AI automation, intelligent workflows, and applied machine learning
+🔐 Focused on secure and production-ready software
+⚡ Interested in performance optimization and scalable architecture
+🚀 Experienced with deployment, APIs, databases, and modern development workflows
+💼 Available for freelance projects, collaborations, and AI engineering opportunities
 
 
 # 💻 Tech Stack:

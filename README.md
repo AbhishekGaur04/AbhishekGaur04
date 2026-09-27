@@ -58,11 +58,31 @@ AI / Automation
 
 </p>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhsiehkGaur&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhsiehkGaur&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhsiehkGaur&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=AbhsiehkGaur&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+💻 Current Focus
+Generative AI
+     ↓
+LLM Applications
+     ↓
+AI Automation
+     ↓
+Intelligent Web Applications
+     ↓
+Production AI Systems
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

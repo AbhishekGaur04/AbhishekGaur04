@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔬I'm currently learning about new Technology 
+FREELANCER 
+AI ENGINEER
 
 
 # 💻 Tech Stack:
